@@ -1,0 +1,9 @@
+name: datascience
+channels:
+    - conda-forge
+dependencies:
+    - notebook
+    - pandas
+    - matplotlib
+    - seaborn
+    - sklearn
